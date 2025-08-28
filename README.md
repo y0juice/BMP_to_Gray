@@ -97,16 +97,16 @@
 ### 3.1 아키텍처 설계
 
 **모듈설계**
-┌───────────────────────────────────────────────┐
-│ BMP_Processor                                 │
-│ ├── File_Handler                              │
-│ │   ├── Input_Validator                       │
-│ │   └── Output_Generator                      │
-│ ├── Image_Processor                           │
-│ │   ├── Color_Converter                       │
-│ │   └── Memory_Manager                        │
-│ └── Error_Handler                             │
-└───────────────────────────────────────────────┘
+-------------------------------------------------
+│ BMP_Processor                                 |
+│ ├── File_Handler                              |
+│ │   ├── Input_Validator                       |
+│ │   └── Output_Generator                      |
+│ ├── Image_Processor                           |
+│ │   ├── Color_Converter                       |
+| │   └── Memory_Manager                        |
+| └── Error_Handler                             |
+|-----------------------------------------------|
 
 ### 3.2 상세 설계
 
