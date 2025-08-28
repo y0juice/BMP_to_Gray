@@ -7,6 +7,7 @@
 - 날짜: 2025년 8월 28일
 - 분류: 설계 보증 레벨 D(DAL-D)
 - 시스템: 항공 디스플레이 처리 장치
+![brainct_001](https://github.com/user-attachments/assets/97d1daf9-06db-48b1-841d-24740213db6c)
 
 ---
 ## 1. 소프트웨어 인증 계획서(PSAC)
