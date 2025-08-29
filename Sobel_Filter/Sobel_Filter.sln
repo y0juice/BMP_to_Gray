@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sobel_Filter", "Sobel_Filter\Sobel_Filter.vcxproj", "{015CD9F4-0518-4B74-94A7-4C30B893E9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015CD9F4-0518-4B74-94A7-4C30B893E9F9}.Debug|x64.ActiveCfg = Debug|x64
+		{015CD9F4-0518-4B74-94A7-4C30B893E9F9}.Debug|x64.Build.0 = Debug|x64
+		{015CD9F4-0518-4B74-94A7-4C30B893E9F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{015CD9F4-0518-4B74-94A7-4C30B893E9F9}.Debug|x86.Build.0 = Debug|Win32
+		{015CD9F4-0518-4B74-94A7-4C30B893E9F9}.Release|x64.ActiveCfg = Release|x64
+		{015CD9F4-0518-4B74-94A7-4C30B893E9F9}.Release|x64.Build.0 = Release|x64
+		{015CD9F4-0518-4B74-94A7-4C30B893E9F9}.Release|x86.ActiveCfg = Release|Win32
+		{015CD9F4-0518-4B74-94A7-4C30B893E9F9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E23531B7-4888-4C4D-9CEB-B3DF116A6AE1}
+	EndGlobalSection
+EndGlobal

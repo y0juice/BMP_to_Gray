@@ -1,0 +1,5 @@
+﻿  Sobel_Filter.cpp
+C:\Users\58\source\repos\Sobel_Filter\Sobel_Filter\Sobel_Filter.cpp(231,30): warning C4838: 'int'에서 'uint8_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\58\source\repos\Sobel_Filter\Sobel_Filter\Sobel_Filter.cpp(231,33): warning C4838: 'int'에서 'uint8_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\58\source\repos\Sobel_Filter\Sobel_Filter\Sobel_Filter.cpp(231,36): warning C4838: 'int'에서 'uint8_t'(으)로의 변환에는 축소 변환이 필요합니다.
+  Sobel_Filter.vcxproj -> C:\Users\58\source\repos\Sobel_Filter\x64\Debug\Sobel_Filter.exe
