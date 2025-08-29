@@ -10,6 +10,8 @@
 
 <img width="630" height="630" alt="brainct_001" src="https://github.com/user-attachments/assets/4fdcd7e9-25c7-4fb4-bf91-9c56dffb1212" />
 
+[output_edge.bmp](https://github.com/user-attachments/files/22040091/output_edge.bmp)
+
 
 ---
 ## 1. 소프트웨어 인증 계획서(PSAC)
