@@ -10,6 +10,7 @@
 
 <img width="630" height="630" alt="brainct_001" src="https://github.com/user-attachments/assets/4fdcd7e9-25c7-4fb4-bf91-9c56dffb1212" />
 
+<Outline>
 <img width="629" height="630" alt="outline" src="https://github.com/user-attachments/assets/dcc87ffc-7bec-462f-a7b5-79b07e188de5" />
 
 
